@@ -4,7 +4,7 @@ sentry plugin for django.
 
 ## sentry
 
-* path: `ridi_plugins.sentry`
+* path: `ridi.sentry_django_plugin`
 
 # Getting started
 
