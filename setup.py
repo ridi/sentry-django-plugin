@@ -22,10 +22,10 @@ def read(*names, **kwargs):
 
 
 setup(
-    name='sentry-django-plugin',
+    name='sentry-django-plugins',
     version='0.1.0',
     license='MIT',
-    description='sentry-django-plugin',
+    description='sentry-django-plugins',
     long_description='%s' % read('README.md'),
     author='ridi-data',
     author_email='data.team@ridi.com',
